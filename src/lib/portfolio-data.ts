@@ -10,7 +10,7 @@ export const personalInfo = {
     "Outside of academics and coding, I enjoy sketching, exploring new music, and volunteering in my community. Let's connect and create something amazing together!"
   ],
   email: "ananyamaniyana@gmail.com",
-  avatar: "/Ananya.jpg", // data-ai-hint will be added in component
+  avatar: "/Ananya.jpg",
   resumeUrl: "/resume.pdf",
 };
 
@@ -18,8 +18,8 @@ export const projects: Project[] = [
   {
     id: "1",
     title: "EcoSort Waste Classifier",
-    description: "A mobile application that uses machine learning to identify and classify waste items, promoting proper recycling habits. Built with React Native and TensorFlow Lite.",
-    imageUrl: "https://placehold.co/600x400.png", // data-ai-hint will be added in component
+    description: "irrigation system",
+    imageUrl: "/irrigation.jfif",
     tags: ["Mobile App", "Machine Learning", "React Native", "Sustainability"],
     liveLink: "#",
     sourceLink: "#",
