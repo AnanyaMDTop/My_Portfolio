@@ -11,7 +11,7 @@ export const personalInfo = {
   ],
   email: "ananyamaniyana@gmail.com",
   avatar: "/Ananya.jpg",
-  resumeUrl: "/resume.pdf",
+  resumeUrl: "/resume.pdf", // Ensures this points to the PDF in the public folder
 };
 
 export const projects: Project[] = [
