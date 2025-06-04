@@ -10,7 +10,7 @@ export const personalInfo = {
     "Outside of academics and coding, I enjoy sketching, exploring new music, and volunteering in my community. Let's connect and create something amazing together!"
   ],
   email: "ananyamaniyana@gmail.com",
-  avatar: "https://placehold.co/200x200.png", // data-ai-hint will be added in component
+  avatar: "/Ananya.jfif", // data-ai-hint will be added in component
   resumeUrl: "/resume.pdf",
 };
 
@@ -43,4 +43,3 @@ export const socialLinks = [
     icon: Mail,
   },
 ];
-
