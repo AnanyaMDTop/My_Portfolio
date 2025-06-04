@@ -17,12 +17,12 @@ export const personalInfo = {
 export const projects: Project[] = [
   {
     id: "1",
-    title: "EcoSort Waste Classifier",
-    description: "irrigation system",
+    title: "Book My Show App",
+    description: "A web application for browsing and booking movie tickets, similar to BookMyShow.",
     imageUrl: "/irrigation.jfif",
-    tags: ["Mobile App", "Machine Learning", "React Native", "Sustainability"],
+    tags: ["Web App", "React", "Node.js", "Booking System"],
     liveLink: "#",
-    sourceLink: "#",
+    sourceLink: "https://github.com/AnanyaMDTop/BookMyShow020",
   },
 ];
 
