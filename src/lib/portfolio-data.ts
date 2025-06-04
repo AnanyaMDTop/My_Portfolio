@@ -9,7 +9,7 @@ export const personalInfo = {
     "Currently, I'm honing my skills in web development, machine learning, and data science. I'm always eager to learn new things and collaborate on exciting projects. My goal is to leverage technology to create impactful and user-centric experiences.",
     "Outside of academics and coding, I enjoy sketching, exploring new music, and volunteering in my community. Let's connect and create something amazing together!"
   ],
-  email: "ananya.md@example.com",
+  email: "ananyamaniyana@gmail.com",
   avatar: "https://placehold.co/200x200.png", // data-ai-hint will be added in component
   resumeUrl: "/resume.pdf",
 };
@@ -34,7 +34,7 @@ export const socialLinks = [
   },
   {
     name: "LinkedIn",
-    url: "https://linkedin.com/in/ananya-md",
+    url: "https://www.linkedin.com/in/ananya-m-d-b7a13a293/",
     icon: Linkedin,
   },
   {
