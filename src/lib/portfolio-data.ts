@@ -55,7 +55,7 @@ export const projects: Project[] = [
 export const socialLinks = [
   {
     name: "GitHub",
-    url: "https://github.com/ananya-md",
+    url: "https://github.com/AnanyaMDTop",
     icon: Github,
   },
   {
@@ -74,3 +74,4 @@ export const socialLinks = [
     icon: Mail,
   },
 ];
+
