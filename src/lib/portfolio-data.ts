@@ -1,5 +1,5 @@
 import type { Project } from '@/types/portfolio';
-import { Github, Linkedin, Mail, Twitter } from 'lucide-react';
+import { Github, Linkedin, Mail } from 'lucide-react';
 
 export const personalInfo = {
   name: "Ananya M.D.",
@@ -38,13 +38,9 @@ export const socialLinks = [
     icon: Linkedin,
   },
   {
-    name: "Twitter",
-    url: "https://twitter.com/ananya_md",
-    icon: Twitter,
-  },
-  {
     name: "Email",
     url: `mailto:${personalInfo.email}`,
     icon: Mail,
   },
 ];
+
