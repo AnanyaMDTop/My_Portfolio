@@ -21,9 +21,6 @@ export default function HomePage() {
           {personalInfo.tagline}
         </p>
         <div className="space-x-4">
-          <Button asChild size="lg" className="bg-accent hover:bg-accent/90 text-accent-foreground">
-            <Link href="/projects">View My Work <ArrowRight className="ml-2 h-5 w-5" /></Link>
-          </Button>
           <Button asChild size="lg" variant="outline" className="border-accent text-accent hover:bg-accent/10">
             <Link href="/contact">Get In Touch</Link>
           </Button>

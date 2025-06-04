@@ -1,6 +1,5 @@
 export const NAV_LINKS = [
   { href: "/", label: "Home" },
-  { href: "/projects", label: "Projects" },
   { href: "/resume", label: "Resume" },
   { href: "/contact", label: "Contact" },
   // { href: "/admin", label: "Admin" }, // Optional: if admin link is needed in main nav
