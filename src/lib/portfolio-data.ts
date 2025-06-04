@@ -24,32 +24,6 @@ export const projects: Project[] = [
     liveLink: "#",
     sourceLink: "#",
   },
-  {
-    id: "2",
-    title: "StudyBuddy AI Tutor",
-    description: "An AI-powered web platform that provides personalized learning assistance to students, featuring adaptive quizzes and concept explanations. Developed using Python (Flask) and Next.js.",
-    imageUrl: "https://placehold.co/600x400.png", // data-ai-hint will be added in component
-    tags: ["Web App", "AI", "Python", "Next.js", "Education"],
-    liveLink: "#",
-    sourceLink: "#",
-  },
-  {
-    id: "3",
-    title: "Community ArtHub",
-    description: "A decentralized platform for local artists to showcase and sell their work, built on blockchain technology for secure transactions. Utilized Solidity and IPFS.",
-    imageUrl: "https://placehold.co/600x400.png", // data-ai-hint will be added in component
-    tags: ["Web3", "Blockchain", "Art", "Community"],
-    liveLink: "#",
-    sourceLink: "#",
-  },
-  {
-    id: "4",
-    title: "Portfolio Website v1",
-    description: "My first personal portfolio website, showcasing early projects and skills. Built with HTML, CSS, and JavaScript.",
-    imageUrl: "https://placehold.co/600x400.png", // data-ai-hint will be added in component
-    tags: ["Web Development", "HTML", "CSS", "JavaScript"],
-    sourceLink: "#",
-  },
 ];
 
 export const socialLinks = [
@@ -74,4 +48,3 @@ export const socialLinks = [
     icon: Mail,
   },
 ];
-
