@@ -28,7 +28,7 @@ export default function ResumePage() {
         <CardContent className="space-y-6">
           <div className="aspect-[8.5/11] w-full max-w-2xl mx-auto rounded-md overflow-hidden shadow-md border border-border">
             <Image
-              src="/screenshot.png" // Updated to use the local screenshot file
+              src="/resume.png" // Updated to use resume.png
               alt="Ananya M.D. Resume Preview"
               width={850}
               height={1100}
