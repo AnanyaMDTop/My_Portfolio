@@ -18,7 +18,7 @@ export const projects: Project[] = [
   {
     id: "1",
     title: "Book My Show App",
-    description: "A web application for browsing and booking movie tickets, similar to BookMyShow.",
+    description: "A clone website of the BookMyShow app.",
     imageUrl: "/irrigation.jfif",
     tags: ["Web App", "React", "Node.js", "Booking System"],
     liveLink: "#",
@@ -43,3 +43,4 @@ export const socialLinks = [
     icon: Mail,
   },
 ];
+
