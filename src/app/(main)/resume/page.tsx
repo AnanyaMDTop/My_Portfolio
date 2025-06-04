@@ -1,3 +1,4 @@
+
 import Image from 'next/image';
 import { Button } from '@/components/ui/button';
 import { Download } from 'lucide-react';
@@ -27,7 +28,7 @@ export default function ResumePage() {
         <CardContent className="space-y-6">
           <div className="aspect-[8.5/11] w-full max-w-2xl mx-auto rounded-md overflow-hidden shadow-md border border-border">
             <Image
-              src="https://placehold.co/850x1100.png"
+              src="/screenshot.png" // Updated to use the local screenshot file
               alt="Ananya M.D. Resume Preview"
               width={850}
               height={1100}
